@@ -12,3 +12,4 @@ C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\NumberGuesser\NumberGuesser\obj
 C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\NumberGuesser\NumberGuesser\obj\Debug\net8.0\NumberGuesser.pdb
 C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\NumberGuesser\NumberGuesser\obj\Debug\net8.0\NumberGuesser.genruntimeconfig.cache
 C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\NumberGuesser\NumberGuesser\obj\Debug\net8.0\ref\NumberGuesser.dll
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\NumberGuesser\NumberGuesser\obj\Debug\net8.0\NumberGuesser.sourcelink.json

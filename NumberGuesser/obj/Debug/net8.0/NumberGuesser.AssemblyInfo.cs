@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NumberGuesser")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+422ba9141a17f57c8fd431cbe811ca4d0eda531b")]
 [assembly: System.Reflection.AssemblyProductAttribute("NumberGuesser")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NumberGuesser")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
